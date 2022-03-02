@@ -1,0 +1,6 @@
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTRefreshEndpointTest.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTDecodeEndpointTest.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpointTest.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/TokenTest.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTVotesEndpointTest.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/test/java/org/owasp/webgoat/jwt/JWTFinalEndpointTest.java

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.SeleniumTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.009 s <<< FAILURE! - in org.owasp.webgoat.SeleniumTest
+org.owasp.webgoat.SeleniumTest.sqlInjection  Time elapsed: 0.012 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

@@ -1,0 +1,8 @@
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORDiffAttributes.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDOR.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDOREditOtherProfiile.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORViewOtherProfile.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORViewOwnProfile.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORViewOwnProfileAltUrl.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/IDORLogin.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/idor/src/main/java/org/owasp/webgoat/idor/UserProfile.java

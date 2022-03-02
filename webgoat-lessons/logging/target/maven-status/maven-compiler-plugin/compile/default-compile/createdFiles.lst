@@ -1,0 +1,3 @@
+org/owasp/webgoat/logging/LogSpoofingTask.class
+org/owasp/webgoat/logging/LogBleedingTask.class
+org/owasp/webgoat/logging/LogSpoofing.class

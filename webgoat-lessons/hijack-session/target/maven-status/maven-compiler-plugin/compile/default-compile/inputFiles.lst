@@ -1,0 +1,5 @@
+/root/demo/sonarqube/WebGoat/webgoat-lessons/hijack-session/src/main/java/org/owasp/webgoat/hijacksession/cas/Authentication.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/hijack-session/src/main/java/org/owasp/webgoat/hijacksession/cas/HijackSessionAuthenticationProvider.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/hijack-session/src/main/java/org/owasp/webgoat/hijacksession/HijackSessionAssignment.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/hijack-session/src/main/java/org/owasp/webgoat/hijacksession/HijackSession.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/hijack-session/src/main/java/org/owasp/webgoat/hijacksession/cas/AuthenticationProvider.java

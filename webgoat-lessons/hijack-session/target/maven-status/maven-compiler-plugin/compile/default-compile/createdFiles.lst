@@ -1,0 +1,6 @@
+org/owasp/webgoat/hijacksession/cas/HijackSessionAuthenticationProvider.class
+org/owasp/webgoat/hijacksession/cas/Authentication.class
+org/owasp/webgoat/hijacksession/cas/Authentication$AuthenticationBuilder.class
+org/owasp/webgoat/hijacksession/cas/AuthenticationProvider.class
+org/owasp/webgoat/hijacksession/HijackSessionAssignment.class
+org/owasp/webgoat/hijacksession/HijackSession.class

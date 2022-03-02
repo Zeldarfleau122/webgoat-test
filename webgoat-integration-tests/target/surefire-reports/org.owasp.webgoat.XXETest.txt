@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.XXETest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.051 s <<< FAILURE! - in org.owasp.webgoat.XXETest
+org.owasp.webgoat.XXETest.xxeSecure  Time elapsed: 0.031 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+
+org.owasp.webgoat.XXETest.runTests  Time elapsed: 0.017 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

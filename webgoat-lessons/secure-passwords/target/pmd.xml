@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2022-02-18T08:29:32.952">
+<file name="/root/demo/sonarqube/WebGoat/webgoat-lessons/secure-passwords/src/main/java/org/owasp/webgoat/secure_password/SecurePasswordsAssignment.java">
+<violation beginline="45" endline="45" begincolumn="22" endcolumn="48" rule="AvoidStringBuffer" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" variable="output" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-ISU01" priority="3">
+StringBuffer is used. It introduces locking overhead, use StringBuilder.
+</violation>
+<violation beginline="51" endline="51" begincolumn="9" endcolumn="71" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+<violation beginline="52" endline="52" begincolumn="9" endcolumn="127" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+<violation beginline="53" endline="53" begincolumn="9" endcolumn="124" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+<violation beginline="61" endline="61" begincolumn="9" endcolumn="158" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+<violation beginline="62" endline="63" begincolumn="9" endcolumn="94" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+<violation beginline="66" endline="70" begincolumn="9" endcolumn="9" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+<violation beginline="71" endline="71" begincolumn="9" endcolumn="75" rule="AvoidConcatInAppend" ruleset="jpinpoint-rules" package="org.owasp.webgoat.secure_password" class="SecurePasswordsAssignment" method="completed" externalInfoUrl="${pmd.website.baseurl}/pmd_rules_performance.html#AvoidConcatInAppend" priority="2">
+Concatenation inside append. Use extra append.
+</violation>
+</file>
+</pmd>

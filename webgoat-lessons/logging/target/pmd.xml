@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2022-02-18T08:29:55.501">
+<file name="/root/demo/sonarqube/WebGoat/webgoat-lessons/logging/src/main/java/org/owasp/webgoat/logging/LogBleedingTask.java">
+<violation beginline="50" endline="50" begincolumn="44" endcolumn="120" rule="UnconditionalOperationOnLogArgument" ruleset="jpinpoint-rules" package="org.owasp.webgoat.logging" class="LogBleedingTask" method="generatePassword" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-IL03" priority="2">
+Operation is executed regardless of log level and can be expensive
+</violation>
+<violation beginline="50" endline="50" begincolumn="79" endcolumn="119" rule="UnconditionalOperationOnLogArgument" ruleset="jpinpoint-rules" package="org.owasp.webgoat.logging" class="LogBleedingTask" method="generatePassword" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-IL03" priority="2">
+Operation is executed regardless of log level and can be expensive
+</violation>
+</file>
+</pmd>

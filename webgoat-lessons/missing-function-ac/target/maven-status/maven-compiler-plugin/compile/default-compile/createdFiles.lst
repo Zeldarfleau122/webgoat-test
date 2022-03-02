@@ -1,0 +1,8 @@
+org/owasp/webgoat/missing_ac/MissingFunctionACYourHash.class
+org/owasp/webgoat/missing_ac/User.class
+org/owasp/webgoat/missing_ac/MissingAccessControlUserRepository.class
+org/owasp/webgoat/missing_ac/MissingFunctionACYourHashAdmin.class
+org/owasp/webgoat/missing_ac/MissingFunctionAC.class
+org/owasp/webgoat/missing_ac/MissingFunctionACUsers.class
+org/owasp/webgoat/missing_ac/MissingFunctionACHiddenMenus.class
+org/owasp/webgoat/missing_ac/DisplayUser.class

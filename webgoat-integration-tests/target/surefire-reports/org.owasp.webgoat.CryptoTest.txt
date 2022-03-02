@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.CryptoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.03 s <<< FAILURE! - in org.owasp.webgoat.CryptoTest
+org.owasp.webgoat.CryptoTest.runTests  Time elapsed: 0.026 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

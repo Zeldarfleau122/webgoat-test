@@ -1,0 +1,9 @@
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTVotesEndpoint.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTFinalEndpoint.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/votes/Views.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTDecodeEndpoint.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTQuiz.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTSecretKeyEndpoint.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/votes/Vote.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWTRefreshEndpoint.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/jwt/src/main/java/org/owasp/webgoat/jwt/JWT.java

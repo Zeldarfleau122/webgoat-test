@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.SqlInjectionLessonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.013 s <<< FAILURE! - in org.owasp.webgoat.SqlInjectionLessonTest
+org.owasp.webgoat.SqlInjectionLessonTest.runTests  Time elapsed: 0.011 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

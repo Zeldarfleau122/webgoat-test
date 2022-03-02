@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2022-02-18T08:28:57.715">
+<file name="/root/demo/sonarqube/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/Comments.java">
+<violation beginline="65" endline="65" begincolumn="22" endcolumn="95" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="65" endline="65" begincolumn="22" endcolumn="38" rule="AvoidRecreatingDateTimeFormatter" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-IDTF02" priority="2">
+Avoid recreating DateTimeFormatter, it is relatively expensive.
+</violation>
+<violation beginline="65" endline="65" begincolumn="22" endcolumn="95" rule="AvoidUnguardedMutableFieldsInSharedObjects" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC07" priority="2">
+Avoid unguarded non-final or mutable fields in objects shared among threads. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="67" endline="67" begincolumn="68" endcolumn="82" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="67" endline="67" begincolumn="26" endcolumn="83" rule="AvoidUnguardedMutableFieldsInSharedObjects" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC07" priority="2">
+Avoid unguarded non-final or mutable fields in objects shared among threads. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="68" endline="68" begincolumn="51" endcolumn="67" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="68" endline="68" begincolumn="26" endcolumn="68" rule="AvoidUnguardedMutableFieldsInSharedObjects" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC07" priority="2">
+Avoid unguarded non-final or mutable fields in objects shared among threads. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="93" endline="93" begincolumn="18" endcolumn="40" rule="JAXBContextCreatedForEachMethodCall" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" method="parseXml" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-IUOXAR04" priority="2">
+JAXBContext is created for each method call, which is expensive.
+</violation>
+<violation beginline="108" endline="108" begincolumn="35" endcolumn="46" rule="ObjectMapperCreatedForEachMethodCall" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="Comments" method="parseJson" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-IUOJAR01" priority="2">
+An ObjectMapper is created for each method call, which is expensive.
+</violation>
+</file>
+<file name="/root/demo/sonarqube/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/ContentTypeAssignment.java">
+<violation beginline="48" endline="48" begincolumn="26" endcolumn="31" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="ContentTypeAssignment" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="48" endline="48" begincolumn="63" endcolumn="83" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="ContentTypeAssignment" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="49" endline="49" begincolumn="26" endcolumn="31" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="ContentTypeAssignment" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="49" endline="49" begincolumn="65" endcolumn="131" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="ContentTypeAssignment" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+</file>
+<file name="/root/demo/sonarqube/WebGoat/webgoat-lessons/xxe/src/main/java/org/owasp/webgoat/xxe/SimpleXXE.java">
+<violation beginline="53" endline="53" begincolumn="26" endcolumn="31" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="SimpleXXE" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="53" endline="53" begincolumn="63" endcolumn="83" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="SimpleXXE" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="54" endline="54" begincolumn="26" endcolumn="31" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="SimpleXXE" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="54" endline="54" begincolumn="65" endcolumn="131" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.xxe" class="SimpleXXE" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+</file>
+</pmd>

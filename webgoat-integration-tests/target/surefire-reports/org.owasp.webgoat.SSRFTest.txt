@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.SSRFTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.064 s <<< FAILURE! - in org.owasp.webgoat.SSRFTest
+org.owasp.webgoat.SSRFTest.runTests  Time elapsed: 0.06 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

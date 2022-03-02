@@ -1,0 +1,3 @@
+org/owasp/webgoat/spoofcookie/SpoofCookieAssignment.class
+org/owasp/webgoat/spoofcookie/encoders/EncDec.class
+org/owasp/webgoat/spoofcookie/SpoofCookie.class

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2022-02-18T08:29:59.146">
+<file name="/root/demo/sonarqube/WebGoat/webgoat-lessons/hijack-session/src/main/java/org/owasp/webgoat/hijacksession/cas/HijackSessionAuthenticationProvider.java">
+<violation beginline="50" endline="50" begincolumn="13" endcolumn="56" rule="AvoidUnguardedMutableFieldsInSharedObjects" ruleset="jpinpoint-rules" package="org.owasp.webgoat.hijacksession.cas" class="HijackSessionAuthenticationProvider" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC07" priority="2">
+Avoid unguarded non-final or mutable fields in objects shared among threads. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="51" endline="51" begincolumn="20" endcolumn="70" rule="AvoidMutableStaticFields" ruleset="jpinpoint-rules" package="org.owasp.webgoat.hijacksession.cas" class="HijackSessionAuthenticationProvider" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC08" priority="2">
+Avoid non-final or mutable static fields. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+<violation beginline="51" endline="51" begincolumn="20" endcolumn="70" rule="AvoidUnguardedMutableFieldsInSharedObjects" ruleset="jpinpoint-rules" package="org.owasp.webgoat.hijacksession.cas" class="HijackSessionAuthenticationProvider" variable="VariableDeclaratorId" externalInfoUrl="http://www.jpinpoint.com/doc/Java+Code+Performance#JavaCodePerformance-TUTC07" priority="2">
+Avoid unguarded non-final or mutable fields in objects shared among threads. Make final immutable or access thread-safely and use @GuardedBy.
+</violation>
+</file>
+</pmd>

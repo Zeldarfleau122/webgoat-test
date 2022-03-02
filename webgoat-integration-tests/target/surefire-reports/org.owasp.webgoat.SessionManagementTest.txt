@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.SessionManagementTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.026 s <<< FAILURE! - in org.owasp.webgoat.SessionManagementTest
+org.owasp.webgoat.SessionManagementTest.hijackSessionTest  Time elapsed: 0.025 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

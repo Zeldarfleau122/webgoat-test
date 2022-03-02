@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.XSSTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.045 s <<< FAILURE! - in org.owasp.webgoat.XSSTest
+org.owasp.webgoat.XSSTest.crossSiteScriptingAssignments  Time elapsed: 0.034 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

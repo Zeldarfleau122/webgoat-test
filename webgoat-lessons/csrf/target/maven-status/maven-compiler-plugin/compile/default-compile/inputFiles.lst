@@ -1,0 +1,7 @@
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFFeedback.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFLogin.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRF.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/ForgedReviews.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/Review.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFConfirmFlag1.java
+/root/demo/sonarqube/WebGoat/webgoat-lessons/csrf/src/main/java/org/owasp/webgoat/csrf/CSRFGetFlag.java

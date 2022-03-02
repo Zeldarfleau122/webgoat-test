@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.AccessControlTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.01 s <<< FAILURE! - in org.owasp.webgoat.AccessControlTest
+org.owasp.webgoat.AccessControlTest.testLesson  Time elapsed: 0.008 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

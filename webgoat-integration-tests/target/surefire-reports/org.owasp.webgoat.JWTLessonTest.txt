@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.JWTLessonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.041 s <<< FAILURE! - in org.owasp.webgoat.JWTLessonTest
+org.owasp.webgoat.JWTLessonTest.solveAssignment  Time elapsed: 0.035 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+

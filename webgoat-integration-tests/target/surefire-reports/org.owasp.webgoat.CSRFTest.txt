@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.owasp.webgoat.CSRFTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in org.owasp.webgoat.CSRFTest
+org.owasp.webgoat.CSRFTest.testCSRFLesson  Time elapsed: 0.001 s  <<< ERROR!
+java.net.ConnectException: Connection refused
+
